@@ -41,7 +41,7 @@ and I’m currently working on **SaralDB** — an **India-first, high-performanc
 
 ## 📫 How to reach me
 - GitHub: https://github.com/abhijadon  
-- LinkedIn: *(add your LinkedIn URL here)*  
+- LinkedIn: https://www.linkedin.com/in/abhishek-singh-4aa22423a/
 
 ---
 
