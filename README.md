@@ -85,6 +85,10 @@ Currently, I’m building **SaralDB** — an **India-first, high-performance doc
   <a href="https://www.linkedin.com/in/abhishek-singh-4aa22423a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abhijadon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
 
 ---
