@@ -1,19 +1,18 @@
-# 👋 Hi, I’m Abhishek Jadon (@abhijadon)
+# 👋 Hi, I’m Abhishek Jadon (@abhijadon) — SaralDB | CodeDemon
 
-🚀 **Team Lead | Backend & Systems Engineer | Database Builder**  
-🔎 Also known for building **SaralDB** and **CodeDemon**
+🚀 **Team Lead | Backend & Systems Engineer | Database Builder**
 
 I’m a software engineer with strong experience in building **CRM and ERP systems**,  
 working across **backend development, cloud infrastructure, and full-stack applications**.
 
-Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**, designed from scratch with a focus on speed, scalability, and real-world reporting.  
-Alongside this, I actively develop projects under **CodeDemon**, focused on backend systems, architecture, and developer tooling.
+Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**,  
+and developing advanced backend & systems projects under **CodeDemon**.
 
 ---
 
 ## 🚀 Currently Building
-- 🗄️ **SaralDB** — a MongoDB-like document database with a custom storage engine, recovery, and future indexing  
-- 🧠 **CodeDemon** — backend systems, experiments, and scalable architecture projects  
+- 🗄️ **SaralDB** — a MongoDB-like document database with custom storage engine & crash-safe recovery  
+- 🧠 **CodeDemon** — backend systems, architecture experiments, and developer tooling  
 - ⚙️ Scalable **CRM & ERP systems** with advanced reporting  
 - ☁️ Cloud-native backend architectures for production workloads  
 
@@ -96,5 +95,5 @@ Alongside this, I actively develop projects under **CodeDemon**, focused on back
 
 ---
 
-> 💡 *I focus on building simple, fast, and reliable systems that scale to millions of users and real-world workloads.*  
+> 💡 *I build simple, fast, and reliable systems that scale to millions of users.*  
 > **Keywords:** SaralDB · CodeDemon · Rust Database · Backend Systems · CRM · ERP
