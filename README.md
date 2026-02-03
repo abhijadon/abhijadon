@@ -5,76 +5,87 @@
 I’m a software engineer with strong experience in building **CRM and ERP systems**,  
 working across **backend, cloud infrastructure, and full-stack applications**.
 
-Currently, I’m designing **SaralDB** — an **India-first, high-performance document database written in Rust**, built from scratch with a focus on speed, scalability, and real-world reporting.
+Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**, designed from scratch with a focus on speed, scalability, and real-world reporting.
 
 ---
 
-## 👀 What I’m interested in
+## 🚀 Currently Building
+- 🗄️ **SaralDB** — a MongoDB-like document database with custom storage engine & recovery  
+- ⚙️ Scalable **CRM & ERP systems** with advanced reporting  
+- ☁️ Cloud-native backend architectures for production workloads  
+
+---
+
+## 👀 Areas of Interest
 - Database internals & storage engine design  
 - High-performance backend systems  
 - Distributed systems & scalability  
-- Cloud-native architectures  
+- Cloud infrastructure & DevOps  
 - Building India-first tech products 🇮🇳  
 
 ---
 
-## 🌱 What I’m currently working on
-- 🗄️ **SaralDB** – a MongoDB-like document database with custom storage engine, recovery, and future indexing  
-- ⚙️ Backend architecture for large-scale **CRM & ERP platforms**  
-- ☁️ Cloud deployment & infrastructure optimization  
-- 🦀 Advanced **Rust** for systems programming (storage engines, performance tuning)
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,react,flutter,androidstudio,html,css,mongodb,mysql,postgres,redis,nginx,docker,aws,linux,git,github,graphql" />
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 Tech Stack Breakdown
 
 ### 💻 Programming Languages
-- **Rust** (database & systems programming)  
-- **JavaScript / TypeScript**  
-- **Node.js** (backend services)  
+- **Rust** (database & systems programming – SaralDB)
+- **JavaScript / TypeScript**
+- **Node.js**
 
 ### 🌐 Web & Backend
-- **MERN Stack** (MongoDB, Express, React, Node.js)  
-- REST APIs & backend architecture  
-- Authentication, role-based access, reporting systems  
+- **MERN Stack** (MongoDB, Express, React, Node.js)
+- REST APIs, authentication, RBAC
+- Backend workflows & reporting systems
 
 ### 📱 Mobile Development
-- **Flutter** (cross-platform apps)  
-- **Android & iOS** application integration  
+- **Flutter** (cross-platform apps)
+- Android & iOS integration
 
 ### ☁️ Cloud & Infrastructure
 - **AWS**
 - **Linode**
-- Linux servers, deployment & scaling  
-- Performance monitoring & optimization  
+- Linux servers, deployments & scaling
+- Performance monitoring & optimization
 
 ### 🗄️ Databases
-- **MongoDB** (production-scale usage)  
-- Designing and building a **custom database engine (SaralDB)**  
+- **MongoDB** (production-scale usage)
+- MySQL / PostgreSQL
+- **Designing my own database engine (SaralDB)**
 
 ---
 
 ## 💼 Professional Experience
-- 👨‍💼 **Team Lead** at *School of Online & Distance Education*  
-- Leading development of internal **CRM & ERP systems**  
-- Architecting backend workflows, dashboards, and reporting pipelines  
-- Managing deployments, cloud infrastructure, and performance  
-- Mentoring developers and guiding technical decisions
+- 👨‍💼 **Team Lead** at *School of Online & Distance Education*
+- Leading development of internal **CRM & ERP platforms**
+- Designing scalable backend workflows & dashboards
+- Handling cloud deployments & performance optimization
+- Mentoring developers & driving technical decisions
 
 ---
 
-## 💞️ Open to collaborate on
-- Database engines & storage systems  
-- Rust-based systems projects  
-- Backend & cloud architecture  
-- Open-source developer tools  
+## 💞️ Open to Collaborate On
+- Database engines & storage systems
+- Rust-based systems programming
+- Backend & cloud architecture
+- Open-source developer tools
 - Scalable SaaS products
 
 ---
 
-## 📫 How to reach me
-- GitHub: https://github.com/abhijadon  
-- LinkedIn: https://www.linkedin.com/in/abhishek-singh-4aa22423a/
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-singh-4aa22423a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
 
 ---
 
