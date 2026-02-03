@@ -1,16 +1,19 @@
 # 👋 Hi, I’m Abhishek Jadon (@abhijadon)
 
-🚀 **Team Lead | Backend & Systems Engineer | Database Builder**
+🚀 **Team Lead | Backend & Systems Engineer | Database Builder**  
+🔎 Also known for building **SaralDB** and **CodeDemon**
 
 I’m a software engineer with strong experience in building **CRM and ERP systems**,  
-working across **backend, cloud infrastructure, and full-stack applications**.
+working across **backend development, cloud infrastructure, and full-stack applications**.
 
-Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**, designed from scratch with a focus on speed, scalability, and real-world reporting.
+Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**, designed from scratch with a focus on speed, scalability, and real-world reporting.  
+Alongside this, I actively develop projects under **CodeDemon**, focused on backend systems, architecture, and developer tooling.
 
 ---
 
 ## 🚀 Currently Building
-- 🗄️ **SaralDB** — a MongoDB-like document database with custom storage engine & recovery  
+- 🗄️ **SaralDB** — a MongoDB-like document database with a custom storage engine, recovery, and future indexing  
+- 🧠 **CodeDemon** — backend systems, experiments, and scalable architecture projects  
 - ⚙️ Scalable **CRM & ERP systems** with advanced reporting  
 - ☁️ Cloud-native backend architectures for production workloads  
 
@@ -58,7 +61,7 @@ Currently, I’m building **SaralDB** — an **India-first, high-performance doc
 ### 🗄️ Databases
 - **MongoDB** (production-scale usage)
 - MySQL / PostgreSQL
-- **Designing my own database engine (SaralDB)**
+- **Designing my own database engine – SaralDB**
 
 ---
 
@@ -72,11 +75,11 @@ Currently, I’m building **SaralDB** — an **India-first, high-performance doc
 ---
 
 ## 💞️ Open to Collaborate On
-- Database engines & storage systems
-- Rust-based systems programming
-- Backend & cloud architecture
-- Open-source developer tools
-- Scalable SaaS products
+- Database engines & storage systems  
+- Rust-based systems programming  
+- Backend & cloud architecture  
+- Open-source developer tools  
+- Scalable SaaS products  
 
 ---
 
@@ -93,4 +96,5 @@ Currently, I’m building **SaralDB** — an **India-first, high-performance doc
 
 ---
 
-> 💡 *I focus on building simple, fast, and reliable systems that scale to millions of users and real-world workloads.*
+> 💡 *I focus on building simple, fast, and reliable systems that scale to millions of users and real-world workloads.*  
+> **Keywords:** SaralDB · CodeDemon · Rust Database · Backend Systems · CRM · ERP
