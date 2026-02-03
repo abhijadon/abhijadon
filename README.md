@@ -5,16 +5,16 @@
 I’m a software engineer with strong experience in building **CRM and ERP systems**,  
 working across **backend development, cloud infrastructure, and full-stack applications**.
 
-Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**,  
-and developing advanced backend & systems projects under **CodeDemon**.
+Currently, I’m building **SaralDB** — an **India-first, high-performance document database written in Rust**.  
+I also go by **CodeDemon**, my personal developer identity, under which I build and experiment with backend and systems-level projects.
 
 ---
 
 ## 🚀 Currently Building
-- 🗄️ **SaralDB** — a MongoDB-like document database with custom storage engine & crash-safe recovery  
-- 🧠 **CodeDemon** — backend systems, architecture experiments, and developer tooling  
+- 🗄️ **SaralDB** — a MongoDB-like document database with a custom storage engine & crash-safe recovery  
 - ⚙️ Scalable **CRM & ERP systems** with advanced reporting  
 - ☁️ Cloud-native backend architectures for production workloads  
+- 🧠 Backend & systems experiments under my personal identity **CodeDemon**
 
 ---
 
