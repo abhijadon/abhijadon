@@ -1,41 +1,74 @@
 # 👋 Hi, I’m Abhishek Jadon (@abhijadon)
 
-🚀 **Software Engineer | System Builder | Team Lead**
+🚀 **Team Lead | Backend & Systems Engineer | Database Builder**
 
-I’m a developer with hands-on experience in building **CRM and ERP systems**,  
-and I’m currently working on **SaralDB** — an **India-first, high-performance document database written in Rust**.
+I’m a software engineer with strong experience in building **CRM and ERP systems**,  
+working across **backend, cloud infrastructure, and full-stack applications**.
+
+Currently, I’m designing **SaralDB** — an **India-first, high-performance document database written in Rust**, built from scratch with a focus on speed, scalability, and real-world reporting.
 
 ---
 
 ## 👀 What I’m interested in
-- Database internals & storage engines  
+- Database internals & storage engine design  
 - High-performance backend systems  
 - Distributed systems & scalability  
-- Rust for systems programming  
+- Cloud-native architectures  
 - Building India-first tech products 🇮🇳  
 
 ---
 
 ## 🌱 What I’m currently working on
-- 🗄️ **SaralDB** – a MongoDB-like document database focused on speed, reliability, and reporting at scale  
+- 🗄️ **SaralDB** – a MongoDB-like document database with custom storage engine, recovery, and future indexing  
 - ⚙️ Backend architecture for large-scale **CRM & ERP platforms**  
-- 🦀 Advanced Rust (storage engines, indexing, performance optimization)
+- ☁️ Cloud deployment & infrastructure optimization  
+- 🦀 Advanced **Rust** for systems programming (storage engines, performance tuning)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 💻 Programming Languages
+- **Rust** (database & systems programming)  
+- **JavaScript / TypeScript**  
+- **Node.js** (backend services)  
+
+### 🌐 Web & Backend
+- **MERN Stack** (MongoDB, Express, React, Node.js)  
+- REST APIs & backend architecture  
+- Authentication, role-based access, reporting systems  
+
+### 📱 Mobile Development
+- **Flutter** (cross-platform apps)  
+- **Android & iOS** application integration  
+
+### ☁️ Cloud & Infrastructure
+- **AWS**
+- **Linode**
+- Linux servers, deployment & scaling  
+- Performance monitoring & optimization  
+
+### 🗄️ Databases
+- **MongoDB** (production-scale usage)  
+- Designing and building a **custom database engine (SaralDB)**  
 
 ---
 
 ## 💼 Professional Experience
 - 👨‍💼 **Team Lead** at *School of Online & Distance Education*  
 - Leading development of internal **CRM & ERP systems**  
-- Designing scalable backend workflows, reporting systems, and data pipelines  
-- Mentoring developers and driving technical decisions
+- Architecting backend workflows, dashboards, and reporting pipelines  
+- Managing deployments, cloud infrastructure, and performance  
+- Mentoring developers and guiding technical decisions
 
 ---
 
 ## 💞️ Open to collaborate on
-- Database engines & backend infrastructure  
+- Database engines & storage systems  
 - Rust-based systems projects  
+- Backend & cloud architecture  
 - Open-source developer tools  
-- High-scale SaaS backend architecture
+- Scalable SaaS products
 
 ---
 
@@ -45,4 +78,4 @@ and I’m currently working on **SaralDB** — an **India-first, high-performanc
 
 ---
 
-> 💡 *I believe in building simple, fast, and reliable systems that scale to millions of users.*
+> 💡 *I focus on building simple, fast, and reliable systems that scale to millions of users and real-world workloads.*
